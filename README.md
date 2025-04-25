@@ -1,6 +1,7 @@
 BlogApp - Spring Boot Backend
 
 📌 About the Project
+
 BlogApp is a backend application built with Spring Boot that provides an API for managing blog posts, users, and perform CRUD including categories and tags for each blog. It uses PostgreSQL as the database and is containerized with Docker for easy deployment.
 
 
