@@ -22,8 +22,12 @@ BlogApp is a backend application built with Spring Boot that provides an API for
 - React (frontend)
 
 
+--> To clone the project run the command below:-
 
-git clone https://github.com/mohitshrma/blogapp.git
+git clone https://github.com/mohitshrma/BlogApp_SpringBoot.git
+
+---> Navigate to the project directory:-
+
 cd blogapp
 
 
